@@ -1,4 +1,4 @@
-// Telegram @HusnuEhedov
+// Telegram - HusnuEhedov
 // Bu repo sıfırdan yığılıb
 // Başka github hesabına yükləməy olmaz
 // Reponu öz adına çıxaran peysərdi ! 
