@@ -18,7 +18,7 @@ npm install telegraf
 ```
 - 2. Repo'yu Klonlayın.
 ```
-git clone https://github.com/sirincay/EtirafBot
+git clone https://github.com/yunusmka/EtirafBot
 cd EtirafBot
 ```
 - 3. Configdə Tokeni Ayarlayın.
